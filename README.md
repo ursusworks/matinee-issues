@@ -6,4 +6,4 @@ Bug reports and feature requests for [Matinee](https://ursusworks.github.io/mati
 
 Matinee is closed source, so this repo holds no code. Issues here are public: please don't post server addresses, API keys, passwords or anything else private.
 
-Prefer email? ursusworks@outlook.com
+Can't use GitHub, or it's private? See the [support page](https://ursusworks.github.io/matinee/).
