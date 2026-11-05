@@ -1,0 +1,11 @@
+name: Feature request
+description: Suggest something new or a change
+labels: [enhancement]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What would you like?
+      description: What you'd want Matinee to do, and why it would help.
+    validations:
+      required: true
